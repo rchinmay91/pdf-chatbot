@@ -1,0 +1,7 @@
+langchain-core
+langchain-huggingface
+huggingface_hub
+chromadb
+pypdf
+gradio
+langchain
