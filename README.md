@@ -5,7 +5,7 @@ An enterprise-ready, serverless Retrieval-Augmented Generation (RAG) system that
 ---
 
 ## 🚀 Interactive Live Space
-🔗 **Test the full-screen deployment dashboard live on Hugging Face Spaces:** https://hf.space
+🔗 **Test the full-screen deployment dashboard live on Hugging Face Spaces:** https://rchinmay91-pdf-chatbot.hf.space
 
 ---
 
