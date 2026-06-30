@@ -1,12 +1,14 @@
 # 📚 PDF Chatbot — Premium Serverless RAG Pipeline
 
 <p align="center">
-  <img src="https://shields.io" alt="LangChain">
-  <img src="https://shields.io" alt="Gradio">
-  <img src="https://shields.io" alt="Qwen">
-  <img src="https://shields.io" alt="Chroma">
-  <img src="https://shields.io" alt="Hugging Face">
-  <img src="https://shields.io" alt="MIT License">
+  <a href="https://hf.space">
+    <img src="https://shields.io" alt="LangChain">
+    <img src="https://shields.io" alt="Gradio">
+    <img src="https://shields.io" alt="Qwen">
+    <img src="https://shields.io" alt="Chroma">
+    <img src="https://shields.io" alt="Hugging Face">
+    <img src="https://shields.io" alt="MIT License">
+  </a>
 </p>
 
 An enterprise-ready, serverless **Retrieval-Augmented Generation (RAG)** application engineered to transform static PDF documentation into an interactive, context-aware knowledge network. This system eliminates local computational bottlenecks by decoupling front-end presentation from heavy AI operations, relying on a robust **LangChain Expression Language (LCEL)** pipeline, in-memory **Chroma** vector matrix indexing, and high-availability cloud-managed inference endpoints.
@@ -100,7 +102,7 @@ The application embeds granular, rule-based analytics to capture systemic execut
 ## 🖼️ Application Workspace Preview
 
 <p align="center">
-  <img src="https://amazonaws.com" width="12%"/>
+  <img src="https://githubusercontent.com" width="35%" alt="Gradio Engineering Workspace Ecosystem"/>
 </p>
 
 | Module View | Interface Capabilities |
@@ -164,5 +166,3 @@ copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
