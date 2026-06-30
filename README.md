@@ -1,4 +1,4 @@
-# 📚 Private PDF Chatbot Engine — Cloud-Native RAG Pipeline
+# 📚 PDF Chatbot Engine — Cloud-Native RAG Pipeline
 
 An enterprise-ready, serverless Retrieval-Augmented Generation (RAG) system that transforms static PDF documents into interactive, context-aware knowledge bases. Built using LangChain Expression Language (LCEL), Chroma vector spaces, Qwen-2.5 language intelligence, and a web deployment layer driven by Gradio 6.0.
 
