@@ -10,6 +10,12 @@
     <img src="https://shields.io" alt="MIT License">
   </a>
 </p>
+![LangChain](https://shields.io)
+![Gradio](https://shields.io)
+![Qwen](https://shields.io)
+![Chroma](https://shields.io)
+![Hugging Face](https://shields.io)
+![MIT License](https://shields.io)
 
 An enterprise-ready, serverless **Retrieval-Augmented Generation (RAG)** application engineered to transform static PDF documentation into an interactive, context-aware knowledge network. This system eliminates local computational bottlenecks by decoupling front-end presentation from heavy AI operations, relying on a robust **LangChain Expression Language (LCEL)** pipeline, in-memory **Chroma** vector matrix indexing, and high-availability cloud-managed inference endpoints.
 
